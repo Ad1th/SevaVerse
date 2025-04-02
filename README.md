@@ -4,6 +4,14 @@
 
 Welcome to **SevaVerse**, a centralized platform designed to connect NGOs, orphanages, well-wishers, and volunteers to foster collaboration and enhance child welfare. This project was developed during the **Women Techies'25 Hackathon** organized by Google Developers Student Club (GDSC), VIT Vellore.
 
+
+---
+
+##Team
+- Aditya Vardhan Kochar
+- Adith Manikonda
+- Arikta Das
+
 ---
 
 ## Problem Statement
@@ -147,8 +155,4 @@ The platform uses Prisma ORM for database management:
 4. Mobile App Development:
     - Extend functionality to Android/iOS platforms.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51498384/9c803a46-7198-45ef-a71c-9b0e98bf8fc2/sevaverse.docx
 
----
-Answer from Perplexity: pplx.ai/share
