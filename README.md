@@ -7,7 +7,7 @@ Welcome to **SevaVerse**, a centralized platform designed to connect NGOs, orpha
 
 ---
 
-##Team
+## Team
 - Aditya Vardhan Kochar
 - Adith Manikonda
 - Arikta Das
